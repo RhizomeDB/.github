@@ -8,9 +8,8 @@ Rhizome is a local-first, postmodern database (and CRDT framework!) that support
 
 ## Early Project Kickoff
 
-(When the project was still called "Dialog")
-[![Watch the video](https://user-images.githubusercontent.com/1052016/235739114-2741af50-d813-4868-94e3-000329bc58a1.png)](https://vimeo.com/704944149)
+- [Dialog (now Rhizome) First Look](https://fission.codes/blog/fission-reactor-dialog-first-look/) 2022
 
 ## The Philosophy of Rhizome
 
-[![Watch the video](https://user-images.githubusercontent.com/1052016/235737727-604e4b0e-a090-44d8-9bde-83bd5ffa0524.png)](https://www.youtube.com/watch?v=KgPCX7Bu4y4)
+[![Watch the video](https://user-images.githubusercontent.com/1052016/235737727-604e4b0e-a090-44d8-9bde-83bd5ffa0524.png)](https://www.youtube.com/watch?v=KgPCX7Bu4y4) 2023
